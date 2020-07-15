@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Sanbox
+namespace Sandbox
 {
     class Program
     {
